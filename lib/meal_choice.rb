@@ -9,7 +9,7 @@ menu
 
 
 end
-return
+
 
 meal_choice("broccoli", "macaroni.")
 
