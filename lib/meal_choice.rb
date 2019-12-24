@@ -7,7 +7,7 @@ return "A plate of #{protein} with #{veg1} and #{veg2}."
 sum = "A plate of #{protein} with #{veg1} and #{veg2}."
 
 
-sum
+
 
 end
 
