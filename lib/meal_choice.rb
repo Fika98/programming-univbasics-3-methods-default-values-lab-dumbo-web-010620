@@ -5,7 +5,7 @@ puts "What a nutritious meal!"
 
 result =  "A plate of #{protein} with #{veg1} and #{veg2}."
 
-p result
+puts result
 
 
 
